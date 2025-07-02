@@ -1,5 +1,5 @@
 //script file or code
-//use api key f
+//use api key fr
 const API_KEY = "";
 const API_URL = "";
 const { jsPDF } = window.jspdf;
