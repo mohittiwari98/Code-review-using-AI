@@ -1,5 +1,5 @@
 //script file or code
-//use api key from Gem
+//use api key from Gemi
 const API_KEY = "";
 const API_URL = "";
 const { jsPDF } = window.jspdf;
