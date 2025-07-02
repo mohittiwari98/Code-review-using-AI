@@ -1,4 +1,4 @@
-//script file or co
+//script file or cod
 const API_KEY = "";
 const API_URL = "";
 const { jsPDF } = window.jspdf;
