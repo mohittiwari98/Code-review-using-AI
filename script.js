@@ -6,7 +6,7 @@ const API_URL = "";
 const { jsPDF } = window.jspdf;
 let metricsChart;
 
-//form to
+//form tog
 const themeToggle = document.getElementById('theme-toggle');
 if (themeToggle) {
     themeToggle.addEventListener('click', () => {
