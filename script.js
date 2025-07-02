@@ -1,6 +1,6 @@
 //script file or code
 //use api key from Gemini
-//also use site u
+//also use site ur
 const API_KEY = "";
 const API_URL = "";
 const { jsPDF } = window.jspdf;
