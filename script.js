@@ -1,4 +1,4 @@
-//
+//s
 const API_KEY = "";
 const API_URL = "";
 const { jsPDF } = window.jspdf;
