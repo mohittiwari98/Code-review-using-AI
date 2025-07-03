@@ -20,7 +20,7 @@ if (themeToggle) {
 }
 
 
-//genera
+//generat
 function renderChart(metrics) {
     if (!document.getElementById('metrics-chart')) {
         console.error('Metrics chart canvas not found');
