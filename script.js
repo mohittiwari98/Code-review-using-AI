@@ -13,7 +13,7 @@ if (themeToggle) {
         document.body.classList.toggle('dark');
         localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
     });
-   // store in local stora
+   // store in local storag
     if (localStorage.getItem('theme') === 'dark') {
         document.body.classList.add('dark');
     }
