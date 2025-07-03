@@ -28,6 +28,7 @@ function renderChart(metrics) {
     }
     if (metricsChart) metricsChart.destroy();
 
+    
     const ctx = document.getElementById('metrics-chart').getContext('2d');
     metricsChart = new Chart(ctx, {
         type: 'radar',
